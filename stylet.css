@@ -1,0 +1,35 @@
+#convert {
+    background-color: #68bbb4;
+  }
+  #convert:hover {
+    background-color: #68b9c7;
+  }
+  h1 {
+    font-family: sans-serif;
+    color: #70b2e5;
+  }
+  input {
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 2em;
+    color: #f4a55a;
+    font-family: cursive, sans-serif;
+  }
+  ::-webkit-input-placeholder {
+     color: #cccccc;
+  }
+  :-moz-placeholder { 
+     color: #ccc;  
+  }
+  ::-moz-placeholder {  
+     color: #ccc;  
+  }
+  :-ms-input-placeholder {  
+     color: #ccc;  
+  }
+  button {
+    padding: 10px;
+    font-size: 1.2em;
+    color: #545454;
+  }
